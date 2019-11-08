@@ -2,7 +2,7 @@
 C# Programming Chapter 5
 
 ## TODO
-- [ ] Guided - ArrayDemo1
+- [X] Guided - ArrayDemo1
 - [ ] Guided - ArrayDemo2
 - [ ] 01 – ArrayDemo
 - [ ] 04 – CheckZips
