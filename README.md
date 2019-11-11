@@ -1,5 +1,5 @@
 # csharp-chapter-06
-C# Programming Chapter 5
+C# Programming Chapter 6
 
 ## TODO
 - [X] Guided - ArrayDemo1
