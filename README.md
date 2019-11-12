@@ -5,7 +5,7 @@ C# Programming Chapter 6
 - [X] Guided - ArrayDemo1
 - [X] Guided - ArrayDemo2
 - [X] 01 – ArrayDemo
-- [ ] 04 – CheckZips
+- [X] 04 – CheckZips
 - [ ] 05 - DeliveryChanges
 - [ ] 06 - ChatAWhile
 - [ ] 07 - WhippetBus
