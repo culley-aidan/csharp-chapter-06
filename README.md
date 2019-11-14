@@ -9,4 +9,4 @@ C# Programming Chapter 6
 - [X] 05 - DeliveryChanges
 - [X] 06 - ChatAWhile
 - [X] 07 - WhippetBus
-- [ ] 10 - GuessAWord
+~~- [ ] 10 - GuessAWord~~
