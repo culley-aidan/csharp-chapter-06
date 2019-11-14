@@ -7,6 +7,6 @@ C# Programming Chapter 6
 - [X] 01 – ArrayDemo
 - [X] 04 – CheckZips
 - [X] 05 - DeliveryChanges
-- [ ] 06 - ChatAWhile
+- [X] 06 - ChatAWhile
 - [ ] 07 - WhippetBus
 - [ ] 10 - GuessAWord
