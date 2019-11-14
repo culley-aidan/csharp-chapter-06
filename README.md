@@ -8,5 +8,5 @@ C# Programming Chapter 6
 - [X] 04 – CheckZips
 - [X] 05 - DeliveryChanges
 - [X] 06 - ChatAWhile
-- [ ] 07 - WhippetBus
+- [X] 07 - WhippetBus
 - [ ] 10 - GuessAWord
